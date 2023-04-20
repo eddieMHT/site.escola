@@ -73,3 +73,14 @@ h1
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
+
+footer{
+    background-color: rgb(255, 117, 117);
+    color: rgb(58, 0, 112);
+    text-align: center;
+}
+
+.h2{
+    display: grid;
+    size: 25%;
+}
